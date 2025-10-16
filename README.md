@@ -1,4 +1,3 @@
-// ...existing code...
 # Análise de Hábitos e Desempenho de Estudantes
 
 Este repositório contém uma análise exploratória sobre hábitos de estudo e desempenho acadêmico. O objetivo é identificar quais fatores (horas de estudo, sono, uso de redes sociais, participação em atividades, entre outros) mais influenciam a nota do exame (`exam_score`) usando o conjunto de dados `student_habits_performance.csv`.
